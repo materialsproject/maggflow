@@ -3,5 +3,5 @@ boto3==1.17.17
 hvac==0.10.11
 IPython==7.16.1;python_version<"3.7"
 IPython==7.25.0;python_version>"3.6"
-nbformat==5.1.2
+nbformat==5.1.3
 regex==2020.11.13
