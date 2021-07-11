@@ -6,6 +6,6 @@ pytest-mock==3.5.1
 moto==2.0.7
 pycodestyle==2.6.0
 pydocstyle==5.1.1
-flake8==3.8.4
+flake8==3.9.2
 mypy==0.812
 mypy-extensions==0.4.3
